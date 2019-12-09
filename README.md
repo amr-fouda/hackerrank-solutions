@@ -10,3 +10,4 @@ Practicing algorithms using jdk 8 maven project
 | N| Name | Level |  Category |
 | :-------------: |:-------------|:-------------|:-------------|
 | 1 |CatAndMouse.java|Easy|Algorithms|
+| 2 |Pangrams.java|Easy|String|
