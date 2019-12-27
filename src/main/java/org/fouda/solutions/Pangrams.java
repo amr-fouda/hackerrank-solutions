@@ -1,17 +1,9 @@
-package org.fouda.solutions.implementation;
+package org.fouda.solutions;
 
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
-import java.util.stream.StreamSupport;
-
-import static java.util.stream.Collectors.*;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
 
 class PangramsSolution {
     private static final String PANGRAM = "pangram";

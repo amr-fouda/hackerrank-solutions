@@ -1,8 +1,9 @@
-package org.fouda.solutions.implementation;
+package org.fouda.solutions;
 
 import java.util.Map;
 
-import static java.util.stream.Collectors.*;
+import static java.util.stream.Collectors.groupingBy;
+import static java.util.stream.Collectors.summingInt;
 
 public class JavaAnagrams {
     static boolean isAnagram(String a, String b) {

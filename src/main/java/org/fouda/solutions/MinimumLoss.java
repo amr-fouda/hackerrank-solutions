@@ -1,4 +1,4 @@
-package org.fouda.solutions.implementation;
+package org.fouda.solutions;
 
 import java.io.IOException;
 import java.util.Scanner;

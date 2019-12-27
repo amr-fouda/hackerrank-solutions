@@ -1,4 +1,4 @@
-package org.fouda.solutions.implementation;
+package org.fouda.solutions;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -46,6 +46,8 @@ class Solution {
 
             bufferedWriter.write(result);
             bufferedWriter.newLine();
+
+
         }
 
         bufferedWriter.close();
