@@ -14,5 +14,7 @@ Practicing algorithms using jdk 8 maven project
 | 3 |[MinimumLoss.java](src/main/java/org/fouda/solutions/MinimumLoss.java)|Medium|Search|https://www.hackerrank.com/challenges/minimum-loss/problem|
 | 4 |[JavaAnagrams.java](src/main/java/org/fouda/solutions/JavaAnagrams.java)|Easy|Strings|https://www.hackerrank.com/challenges/java-anagrams/problem|
 | 5 |[MarcsCakewalk.java](src/main/java/org/fouda/solutions/MarcsCakewalk.java)|Easy|Greedy|https://www.hackerrank.com/challenges/marcs-cakewalk/problem|
+| 6 |[BalancedSums.java](src/main/java/org/fouda/solutions/BalancedSums.java)|Easy|Search|https://www.hackerrank.com/challenges/sherlock-and-array/problem|
+
 
 
