@@ -15,6 +15,7 @@ Practicing algorithms using jdk 8 maven project
 | 4 |[JavaAnagrams.java](src/main/java/org/fouda/solutions/JavaAnagrams.java)|Easy|Strings|https://www.hackerrank.com/challenges/java-anagrams/problem|
 | 5 |[MarcsCakewalk.java](src/main/java/org/fouda/solutions/MarcsCakewalk.java)|Easy|Greedy|https://www.hackerrank.com/challenges/marcs-cakewalk/problem|
 | 6 |[BalancedSums.java](src/main/java/org/fouda/solutions/BalancedSums.java)|Easy|Search|https://www.hackerrank.com/challenges/sherlock-and-array/problem|
+| 7 |[Euler001.java](src/main/java/org/fouda/solutions/euler/Euler001.java)|Easy|Project Euler 100|https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem|
 
 
 
