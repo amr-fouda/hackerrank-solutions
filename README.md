@@ -18,6 +18,8 @@ Practicing algorithms using jdk 8 maven project
 | 7 |[Euler001.java](src/main/java/org/fouda/solutions/euler/Euler001.java)|Easy|Project Euler 100|https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem|
 | 8 |[AngryProfessor.java](src/main/java/org/fouda/solutions/AngryProfessor.java)|Easy|Algorithms|https://www.hackerrank.com/challenges/angry-professor/problem|
 | 9 |[IcecreamParlor.java](src/main/java/org/fouda/solutions/IcecreamParlor.java)|Easy|Search|https://www.hackerrank.com/challenges/icecream-parlor/problem|
+|10 |[MissingNumbers.java](src/main/java/org/fouda/solutions/MissingNumbers.java)|Easy|Search|https://www.hackerrank.com/challenges/missing-numbers/problem|
+
 
 
 
