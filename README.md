@@ -22,4 +22,4 @@ Practicing algorithms using jdk 8 maven project
 |11 |[ElectronicsShop.java](src/main/java/org/fouda/solutions/ElectronicsShop.java)|Easy|Implementation|https://www.hackerrank.com/challenges/electronics-shop/problem|
 |12 |[TimeConversion.java](src/main/java/org/fouda/solutions/TimeConversion.java)|Easy|Warm up|https://www.hackerrank.com/challenges/time-conversion/problem|
 |13 |[BonAppetit.java](src/main/java/org/fouda/solutions/BonAppetit.java)|Easy|Implementation|https://www.hackerrank.com/challenges/bon-appetit|
-
+|14 |[AppleAndOrange.java](src/main/java/org/fouda/solutions/AppleAndOrange.java)|Easy|Implementation|https://www.hackerrank.com/challenges/apple-and-orange|
