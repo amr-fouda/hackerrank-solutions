@@ -23,3 +23,4 @@ Practicing algorithms using jdk 8 maven project
 |12 |[TimeConversion.java](src/main/java/org/fouda/solutions/TimeConversion.java)|Easy|Warm up|https://www.hackerrank.com/challenges/time-conversion/problem|
 |13 |[BonAppetit.java](src/main/java/org/fouda/solutions/BonAppetit.java)|Easy|Implementation|https://www.hackerrank.com/challenges/bon-appetit|
 |14 |[AppleAndOrange.java](src/main/java/org/fouda/solutions/AppleAndOrange.java)|Easy|Implementation|https://www.hackerrank.com/challenges/apple-and-orange|
+|15 |[FindDigits.java](src/main/java/org/fouda/solutions/FindDigits.java)|Easy|Implementation|https://www.hackerrank.com/challenges/find-digits/problem|
