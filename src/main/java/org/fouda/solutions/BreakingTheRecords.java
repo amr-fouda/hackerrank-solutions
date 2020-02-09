@@ -30,8 +30,7 @@ public class BreakingTheRecords {
             }
 
         }
-        int[] result = {maxCounter, lowCounter};
-        return result;
+        return new int[]{maxCounter, lowCounter};
     }
 
     public static void main(String[] args) throws IOException {

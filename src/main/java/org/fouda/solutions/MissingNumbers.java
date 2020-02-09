@@ -3,7 +3,6 @@ package org.fouda.solutions;
 import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class MissingNumbers {
     //O(2a+b) ~= O(a+b)
@@ -20,7 +19,7 @@ public class MissingNumbers {
         return  IntStream.of(arr)
                 .parallel()
                 .boxed()
-                .collect(Collectors.toMap( k -> k , v->1 , ( a,  b) -> a+b ));
+                .collect(Collectors.toMap( k -> k , v->1 , Integer::sum));
     }
 
     public static void main(String[] args) {

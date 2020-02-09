@@ -12,7 +12,7 @@ public class FindDigits {
         int count = 0;
         String number = String.valueOf(n);
         for (int i = 0; i < number.length(); i++) {
-            int nu = Integer.valueOf(number.substring(i, i + 1));
+            int nu = Integer.parseInt(number.substring(i, i + 1));
             if (nu != 0 && (n % nu) == 0)
                 count++;
         }

@@ -1,6 +1,5 @@
 package org.fouda.solutions;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 class MinimumLoss {
@@ -21,7 +20,7 @@ class MinimumLoss {
 
     private static final Scanner scanner = new Scanner(System.in);
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         assert 2 == minimumLoss(new long[]{20, 7, 8, 2, 5});
         assert 2 == minimumLoss(new long[]{5, 10, 3});
     }

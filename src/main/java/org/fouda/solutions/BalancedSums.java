@@ -1,14 +1,8 @@
 package org.fouda.solutions;
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.function.*;
-import java.util.regex.*;
 import java.util.stream.*;
-import static java.util.stream.Collectors.joining;
+
 import static java.util.stream.Collectors.toList;
 
 public class BalancedSums {
@@ -23,7 +17,7 @@ public class BalancedSums {
         for (int i = 0; i < arr.size(); i++) {
             if (i == 0) {
                 temp = arr.get(0);
-                asc.put(0, 0l);
+                asc.put(0, 0L);
             } else {
                 asc.put(i, temp);
                 temp = temp + arr.get(i);
@@ -34,7 +28,7 @@ public class BalancedSums {
         for (int i = arr.size() - 1; i >= 0; i--) {
             if (i == arr.size() - 1) {
                 temp = arr.get(arr.size() - 1);
-                desc.put(arr.size() - 1, 0l);
+                desc.put(arr.size() - 1, 0L);
             } else {
                 desc.put(i, temp);
                 temp = temp + arr.get(i);

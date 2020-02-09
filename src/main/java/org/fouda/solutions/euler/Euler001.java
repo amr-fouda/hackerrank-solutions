@@ -24,7 +24,7 @@ public class Euler001 {
             }
         }
         cache.put(max,sum);
-        inputList.stream().forEach(k -> System.out.println(cache.get(k)));
+        inputList.forEach(k -> System.out.println(cache.get(k)));
     }
 
     //Idea#1 - Cache results

@@ -7,11 +7,11 @@ public class TimeConversion {
     /*
      * Complete the timeConversion function below.
      */
-    static String timeConversion(String s) throws Exception {
+    static String timeConversion(String s) {
         return LocalTime.parse(s, DateTimeFormatter.ofPattern("hh:mm:ssa")).format(DateTimeFormatter.ofPattern("HH:mm:ss"));
     }
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         System.out.println(timeConversion("07:05:45PM").equalsIgnoreCase("19:05:45"));
         System.out.println(timeConversion("12:00:00AM").equalsIgnoreCase("00:00:00"));
         System.out.println((timeConversion("12:00:00AM")));
