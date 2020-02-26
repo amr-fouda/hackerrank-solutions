@@ -27,5 +27,6 @@ Practicing algorithms using jdk 8 maven project
 |16 |[BreakingTheRecords.java](src/main/java/org/fouda/solutions/BreakingTheRecords.java)|Easy|Implementation|https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem|
 |17 |[HurdleRace.java](src/main/java/org/fouda/solutions/HurdleRace.java)|Easy|Implementation|https://www.hackerrank.com/challenges/the-hurdle-race/problem|
 |18 |[DesignerPdfViewer.java](src/main/java/org/fouda/solutions/DesignerPdfViewer.java)|Easy|Implementation|https://www.hackerrank.com/challenges/designer-pdf-viewer/problem|
+|19 |[Kangaroo.java](src/main/java/org/fouda/solutions/Kangaroo.java)|Easy|Implementation|https://www.hackerrank.com/challenges/kangaroo/problem|
 
 
