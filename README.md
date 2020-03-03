@@ -33,5 +33,6 @@ Practicing algorithms using jdk 8 maven project
 |22 |[MarsExploration.java](src/main/java/org/fouda/solutions/MarsExploration.java)|Easy|Strings|https://www.hackerrank.com/challenges/mars-exploration/problem|
 |23 |[AlternatingCharacters.java](src/main/java/org/fouda/solutions/AlternatingCharacters.java)|Easy|Strings|https://www.hackerrank.com/challenges/alternating-characters/problem|
 |24 |[Gemstones.java](src/main/java/org/fouda/solutions/Gemstones.java)|Easy|Strings|https://www.hackerrank.com/challenges/gem-stones/problem|
+|25 |[StringConstruction.java](src/main/java/org/fouda/solutions/StringConstruction.java)|Easy|Strings|https://www.hackerrank.com/challenges/string-construction/problem|
 
 
