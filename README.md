@@ -35,6 +35,6 @@ Practicing algorithms using jdk 8 maven project
 |24 |[Gemstones.java](src/main/java/org/fouda/solutions/Gemstones.java)|Easy|Strings|https://www.hackerrank.com/challenges/gem-stones/problem|
 |25 |[StringConstruction.java](src/main/java/org/fouda/solutions/StringConstruction.java)|Easy|Strings|https://www.hackerrank.com/challenges/string-construction/problem|
 |26 |[BeautifulDaysAtTheMovies.java](src/main/java/org/fouda/solutions/BeautifulDaysAtTheMovies.java)|Easy|Implementation|https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem|
-|26 |[MigratoryBirds.java](src/main/java/org/fouda/solutions/MigratoryBirds.java)|Easy|Implementation|https://www.hackerrank.com/challenges/migratory-birds/problem|
-
+|27 |[MigratoryBirds.java](src/main/java/org/fouda/solutions/MigratoryBirds.java)|Easy|Implementation|https://www.hackerrank.com/challenges/migratory-birds/problem|
+|28 |[FindMedian.java](src/main/java/org/fouda/solutions/FindMedian.java)|Easy|Sorting|https://www.hackerrank.com/challenges/find-the-median/problem|
 
