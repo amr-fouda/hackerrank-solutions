@@ -37,4 +37,4 @@ Practicing algorithms using jdk 8 maven project
 |26 |[BeautifulDaysAtTheMovies.java](src/main/java/org/fouda/solutions/BeautifulDaysAtTheMovies.java)|Easy|Implementation|https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem|
 |27 |[MigratoryBirds.java](src/main/java/org/fouda/solutions/MigratoryBirds.java)|Easy|Implementation|https://www.hackerrank.com/challenges/migratory-birds/problem|
 |28 |[FindMedian.java](src/main/java/org/fouda/solutions/FindMedian.java)|Easy|Sorting|https://www.hackerrank.com/challenges/find-the-median/problem|
-
+|29 |[PickingNumbers.java](src/main/java/org/fouda/solutions/PickingNumbers.java)|Easy|Implementation|https://www.hackerrank.com/challenges/picking-numbers/problem|
