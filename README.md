@@ -38,3 +38,4 @@ Practicing algorithms using jdk 8 maven project
 |27 |[MigratoryBirds.java](src/main/java/org/fouda/solutions/MigratoryBirds.java)|Easy|Implementation|https://www.hackerrank.com/challenges/migratory-birds/problem|
 |28 |[FindMedian.java](src/main/java/org/fouda/solutions/FindMedian.java)|Easy|Sorting|https://www.hackerrank.com/challenges/find-the-median/problem|
 |29 |[PickingNumbers.java](src/main/java/org/fouda/solutions/PickingNumbers.java)|Easy|Implementation|https://www.hackerrank.com/challenges/picking-numbers/problem|
+|30 |[ServiceLane.java](src/main/java/org/fouda/solutions/ServiceLane.java)|Easy|Implementation|https://www.hackerrank.com/challenges/service-lane/problem|
