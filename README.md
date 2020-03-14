@@ -40,3 +40,6 @@ Practicing algorithms using jdk 8 maven project
 |29 |[PickingNumbers.java](src/main/java/org/fouda/solutions/PickingNumbers.java)|Easy|Implementation|https://www.hackerrank.com/challenges/picking-numbers/problem|
 |30 |[ServiceLane.java](src/main/java/org/fouda/solutions/ServiceLane.java)|Easy|Implementation|https://www.hackerrank.com/challenges/service-lane/problem|
 |31 |[HalloweenSale.java](src/main/java/org/fouda/solutions/HalloweenSale.java)|Easy|Implementation|https://www.hackerrank.com/challenges/halloween-sale/problem|
+|32 |[TwoStrings.java](src/main/java/org/fouda/solutions/TwoStrings.java)|Easy|Strings|https://www.hackerrank.com/challenges/two-strings/problem|
+
+
