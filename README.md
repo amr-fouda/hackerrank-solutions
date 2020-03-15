@@ -41,5 +41,6 @@ Practicing algorithms using jdk 8 maven project
 |30 |[ServiceLane.java](src/main/java/org/fouda/solutions/ServiceLane.java)|Easy|Implementation|https://www.hackerrank.com/challenges/service-lane/problem|
 |31 |[HalloweenSale.java](src/main/java/org/fouda/solutions/HalloweenSale.java)|Easy|Implementation|https://www.hackerrank.com/challenges/halloween-sale/problem|
 |32 |[TwoStrings.java](src/main/java/org/fouda/solutions/TwoStrings.java)|Easy|Strings|https://www.hackerrank.com/challenges/two-strings/problem|
+|33 |[MarkAndToys.java](src/main/java/org/fouda/solutions/MarkAndToys.java)|Easy|Greedy|https://www.hackerrank.com/challenges/mark-and-toys/problem|
 
 
