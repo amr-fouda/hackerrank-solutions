@@ -42,5 +42,4 @@ Practicing algorithms using jdk 8 maven project
 |31 |[HalloweenSale.java](src/main/java/org/fouda/solutions/HalloweenSale.java)|Easy|Implementation|https://www.hackerrank.com/challenges/halloween-sale/problem|
 |32 |[TwoStrings.java](src/main/java/org/fouda/solutions/TwoStrings.java)|Easy|Strings|https://www.hackerrank.com/challenges/two-strings/problem|
 |33 |[MarkAndToys.java](src/main/java/org/fouda/solutions/MarkAndToys.java)|Easy|Greedy|https://www.hackerrank.com/challenges/mark-and-toys/problem|
-
-
+|34 |[MinimumAbsoluteDifference.java](src/main/java/org/fouda/solutions/MinimumAbsoluteDifference.java)|Easy|Greedy|https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem|
